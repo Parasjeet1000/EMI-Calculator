@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+
+    <string-array name="intrest_rate">
+        <item>3 Year Fixed 6.91%</item>
+        <item>5 Year Fixed 6.54%</item>
+        <item>6 Month Convertible 7.94%</item>
+        <item>1 Year Closed 7.84%</item>
+        <item>3 Year Fixed 6.91%</item>
+
+    </string-array>
+
+</resources>
